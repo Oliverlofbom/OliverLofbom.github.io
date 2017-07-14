@@ -1,0 +1,101 @@
+body{
+	background-color: #3c7de8;
+	text-align: center;
+}
+
+#bild {
+	margin: 40px;
+}
+#bild3{
+	margin: 40px
+}
+ul, ol {
+	list-style-type: none;
+}
+li a{
+	color: white;
+}
+#rubrik{
+	font-family: 'Oswald', sans-serif;
+}
+#fruktsallad{
+	margin: 20px
+}
+#underrubrik{
+	margin: 50px
+}
+#lista1{
+	color: #3802ce
+}
+#lista2{
+	color: #3802ce
+}
+#Ingredienser1{
+	color: #3802ce
+}
+#bakgrund1 {
+	background-image: url("../bilder/smet.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+#bakgrund2 {
+	background-image: url("../bilder/img_4581.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+#bakgrund3 {
+	background-image: url("../bilder/newstyle-878.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+#bakgrund4 {
+	background-image: url("../bilder/maxresdefault.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+.bakgrund5 {
+	background-image: url("../bilder/kladdkaka-recept-3.jpg") !important;
+}
+
+.ng-binding {
+	color: white;
+}
+#Kommentera{
+	color: white
+}
+{
+	color: white
+}
+#Kommentarsflöde{
+	color: white
+}
+#fråga{
+	color: lightgreen
+}
+#fråga2{
+	color: lightgreen
+}
+
+#lista9 {
+	color: white
+}
+#lista11{
+	color: white
+}
+#rubrik4{
+	color: white
+}
+#rubrik3{
+	color: white
+}
+#lista10{
+	color: white
+}
